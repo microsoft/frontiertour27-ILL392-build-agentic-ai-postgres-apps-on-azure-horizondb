@@ -17,7 +17,7 @@ If you are an attendee working through the lab, start at the root [README](/READ
 
 | Item | Link | Notes |
 |---|---|---|
-| Delivery deck | coming soon | Required URL |
+| Delivery deck | [English](https://aka.ms/ft27/ill392/slides/en) \| [Spanish](https://aka.ms/ft27/ill392/slides/es) | Session slides |
 | Session recording | [Recording](https://aka.ms/ft27/ill392/youtube) | Optional URL when available |
 | Attendee landing page | [Session README](/README.md) | Public starting point |
 | Workshop/lab instructions | [Instructions](/instructions/README.md) | Lab instructions for attendees |
