@@ -161,4 +161,4 @@ You will trigger failover on your assigned lab instance and check how the runnin
 
 ## Next Steps
 
-> You have completed all notebook cells and the failover exercise in sequence. For failed database checks, open [HorizonDB diagnostics](4-diagnostics.md). Continue with the [learning resources](../README.md#-continue-your-learning).
+> Congratulations! You have completed all the lab exercises and reached the end of the lab.

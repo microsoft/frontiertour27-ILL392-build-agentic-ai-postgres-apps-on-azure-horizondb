@@ -51,7 +51,6 @@ In this exercise, you will connect to HorizonDB using the PostgreSQL extension f
 
     ![View your query results](../img/1.7-query-results.png)
 
-
 ## Next Steps
 
-> Continue to [Part 2: Data setup](2-data-setup.md).
+> Select **Next >** to proceed to the next part of the lab.

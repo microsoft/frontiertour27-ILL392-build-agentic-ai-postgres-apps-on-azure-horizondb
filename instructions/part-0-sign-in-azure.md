@@ -49,4 +49,4 @@ Parameter groups are first-class resources in Azure and are surfaced within the 
 
 ## Next Steps
 
-> Continue to [Part 1: Connect to HorizonDB](1-connect.md).
+> Select **Next >** to proceed to the next part of the lab.

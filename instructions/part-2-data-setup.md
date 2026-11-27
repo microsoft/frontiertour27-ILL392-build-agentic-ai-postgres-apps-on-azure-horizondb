@@ -115,4 +115,4 @@ You will inspect the objects you just created in the PostgreSQL extension. The g
 
 ## Next Steps
 
-> Continue to [Part 3: Build and run the legal research agent](3-app-development.md). For a failed database check, use [HorizonDB diagnostics](4-diagnostics.md) before continuing.
+> Select **Next >** to proceed to the next part of the lab.
