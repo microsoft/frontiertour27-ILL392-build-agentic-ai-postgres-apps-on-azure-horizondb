@@ -8,28 +8,28 @@ In this section, we'll open Microsoft Edge in the lab environment and sign in to
 
 1. Double-click on the **Microsoft Edge** icon on the desktop.
 
-    ![Starting the Lab](../img/0-portal.png)
+    ![Starting the Lab](media/0-portal.png)
 
 > [!NOTE]
 > If you see a sign-in pop-up, select **Not now**.
 
 1. To sign in to the Azure portal, enter the following credentials:
 
-    - Username: +++@lab.CloudPortalCredential(User1).Username+++
-    - TAP: +++@lab.CloudPortalCredential(User1).TAP+++
+    - Username: `@lab.CloudPortalCredential(User1).Username`
+    - TAP: `@lab.CloudPortalCredential(User1).TAP`
 
-> [!NOTE]
-> This lab uses a Temporary Access Pass (TAP) instead of a password to sign in to Azure. If you need to access this TAP code again, use the **Resources** tab at the top of these lab instructions.
+    > [!NOTE]
+    > This lab uses a Temporary Access Pass (TAP) instead of a password to sign in to Azure. If you need to access this TAP code again, use the **Resources** tab at the top of these lab instructions.
 
 1. Once you've signed in to the Azure portal, select **View all resources**.
 
-    ![View all resources](../img/0.1-view-all-resources.png)
+    ![View all resources](media/0.1-view-all-resources.png)
 
 1. We'll be using these resources during this lab:
     - A Microsoft Foundry instance
     - An Azure HorizonDB database instance
 
-    ![Azure Lab Resources](../img/0.2-lab-resources.png)
+    ![Azure Lab Resources](media/0.2-lab-resources.png)
 
 ## Task 2: Verify the HorizonDB parameter group
 
@@ -45,7 +45,7 @@ Parameter groups are first-class resources in Azure and are surfaced within the 
 
 1. Confirm that your parameter group has been enabled for your HorizonDB instance.
 
-    ![HorizonDB Server Parameters](../img/0.3-server-parameters.png)
+    ![HorizonDB Server Parameters](media/0.3-server-parameters.png)
 
 ## Next Steps
 
